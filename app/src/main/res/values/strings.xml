@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cooking with Ferdous</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+    <string name="ingredients">1 1/2 sticks butter, melted
+4 cloves garlic, grated
+2 tsp. garlic powder
+1/2 tsp. dried parsley or Italian seasoning
+1/4 tsp. kosher salt
+1 loaf white bread, sliced into about 10 3/4-inch slices</string>
+    <string name="procedure">Preheat oven to 400°. In a medium bowl, combine butter, garlic, garlic powder, dried parsley, and salt. Lay out bread slices onto a sheet tray and brush each side of each slice generously with the garlic-butter mixture.Bake the toast, flipping halfway through, until golden, about 12 minutes. Serve immediately.</string>
+</resources>
